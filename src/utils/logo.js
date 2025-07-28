@@ -1,0 +1,3 @@
+const logo_img = "https://res.cloudinary.com/dn0v6bhw1/image/upload/v1733036612/DALL_E_2024-12-01_12.31.27_-_A_modern_and_sleek_logo_design_for_Mani_Food_Delivery_._The_logo_features_a_stylized_orange_food_box_or_plate_with_steam_rising_to_symbolize_fresh_an_dvtcl0.webp"
+
+export default logo_img
