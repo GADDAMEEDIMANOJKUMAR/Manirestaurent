@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux"
 import imagelink from "../utils/imagelink"
-import {addItem, decreaseItem,increaseItem } from "../Store/cartSlice"
+import {addItem, decreaseItem,increaseItem } from "../Store/Cartslice"
 // import Context from "../utils/Context"
 // import { useContext } from "react"
 import { useState } from "react"
