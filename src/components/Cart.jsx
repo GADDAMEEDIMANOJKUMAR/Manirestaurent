@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux"
 import Itemlist from "./Itemlist"
-import { clearItem } from "../Store/cartSlice"
+import { clearItem } from "../Store/Cartslice"
 import { Link } from "react-router-dom" 
 
 const Cart = () => {
